@@ -8,4 +8,9 @@
 
   # Repository
 
+  https://github.com/VladSimonyan/Lyricist-P2.git
+
+
+
   
+![Lyricist Page](https://github.com/VladSimonyan/Lyricist-P2/assets/129136870/ff6db6dd-77b3-4799-b841-840f3a434a99)
